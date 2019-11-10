@@ -1,7 +1,7 @@
-/**
- * [description]
- * @returns {[type]} [description]
- */
-export default function() {
-    window.console.log("a")
+function f() {
+    document.getElementById('demo').style.display = 'block';
+}
+
+function f1() {
+    document.getElementById('demo').style.display = 'none';
 }
