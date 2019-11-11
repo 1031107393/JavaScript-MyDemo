@@ -1,1 +1,12 @@
 node_modules
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/.gitignore
+/.idea/checkstyle-idea.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/es6-webpack.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
